@@ -1,30 +1,50 @@
-- 👋 Hi, I’m Jefferson
-- 👀 I’m interested in ...Gestão da tecnologia da informação, analise QA, Analise de sistemas ...
-- 🌱 I’m currently learning ...Curso profissionalizante SCRUM Master
-Gestão, gestão tradicional de projetos, fluxo Scrum, controle impírico de processos, backlog do produto, identificando às necessidades dos interessados, registro de histórias, planejamento de Sprint, elementos de negociação 
+👋 Olá, eu sou Jefferson
+☕ Desenvolvedor Java Backend Júnior
+🎓 Tecnólogo em Gestão da Tecnologia da Informação
 
-Curso profissionalizante KANBAN
-Fundamentos, Kanbantool, criando quadro base, mapeamento de fluxo, variação de quadros, coluna de Buffer, múltiplos kanbans, Limite Wip( work in progress) , lead time, throyghput, diagrama de fluxo cumulativo( CFD) análise de tendências, análise métrica, gestão de projetos.
+🚀 Sobre mim
+Sou Desenvolvedor Java Backend Júnior, focado no desenvolvimento de aplicações backend bem estruturadas, utilizando Java e Programação Orientada a Objetos.
+Tenho perfil disciplinado, analítico e comprometido com boas práticas de código, sempre buscando evolução técnica por meio de projetos práticos.
 
-Curso TESTES automatizados Selenium e Java 
-QA e suas competências, principais testes, sistema para controle de produtos, testes automatizados X manual, configuração do ambiente, VSCode, práticas de Poo , Paje object e Paje factory, criando testes, documentando testes.
+🧠 Tecnologias & Conhecimentos
+Java (fundamentos, POO, coleções)
+Desenvolvimento Backend com Java
+APIs REST (conceitos)
+Banco de Dados SQL (CRUD e consultas)
+Git e GitHub
+Linux e Windows
 
-Curso profissionalizante ANÁLISE e Desenvolvimento de sistema WEB
-Linguagem para desenvolvimento, templates web, PHP MVC X estruturado, Banco de Dados, variáveis globais, Crud do mecânico,consulta em MysQl, Ajax, Model, Hospedagem 
+Metodologias Ágeis: Scrum e Kanban
+🛠️ Atualmente praticando
+Desenvolvimento de aplicações backend em Java
+Criação de APIs e integração com banco de dados
+Organização de projetos e versionamento de código
+Boas práticas de programação e código limpo
+Testes básicos em Java
 
-Programação Python
-IDE, Repl.It, Print, strings e números, variáveis, modificando tipo de dados, strings e integers, adicionando input, formated strings, operadores lógicos, for loop, while loop, operador ternário, parâmetros e argumentos em uma função, default e non-default, print ou return, argumentos xargs com números , configuração BGP com Napalm 
+📌 Projetos
+Aplicação Backend Java (CRUD)
+Persistência de dados com banco SQL
+Estrutura orientada a objetos
+Código organizado e documentado
+Projetos de Estudo em Java Backend
+Lógica de programação
+Estruturas de controle e coleções
+Evolução contínua do código
+(Projetos disponíveis nos meus repositórios do GitHub)
 
-Golang 
-Go playground, variáveis, tipo de dados, operadores, const, conversão If, else, operadores lógicos, for, break, for animados, testes createdby no endpoint.go
-
-Sap Abap
-Abap Trial, VirtualBox e Ubuntu, SapGui, informação de sistemas, organização desenvolvimento declarativos, variável, constantes, parâmetro de entrada, operadores lógicos, operadores aritméticos, dicionário de dados, cardinalidade, elementos de dados, SM30, SE16, estruturas, comando Append, loop, Read table, modify, Open SQL, Debug, Inner Join, Left Join , BDC, Call transaction Bapi.
-Desenvolvimento ALV, criando programa Pbo, Pai e table control, table control chain e botões Tabstrip.
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+🎯 Objetivos
+Evoluir como Desenvolvedor Java Backend
+Atuar em projetos reais e ambientes colaborativos
+Aprofundar conhecimentos em Java e backend
+Contribuir com soluções eficientes e seguras
+🤝 Busco colaborar em
+Projetos Java Backend
+APIs REST
+Projetos open source para aprendizado e prática
+📫 Contato
+💼 LinkedIn:(https://www.linkedin.com/in/jeffersonfagundespereira)
+📧 E-mail: (Jesk8boy@gmail.com)
 <!---
 Jesk8boy/Jesk8boy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,48 +1,34 @@
-👋 Olá, eu sou Jefferson
-☕ Desenvolvedor Java Backend Júnior
-🎓 Tecnólogo em Gestão da Tecnologia da Informação
+Olá! Eu sou o Jefferson Fagundes👋
 
-🚀 Sobre mim
-Sou Desenvolvedor Java Backend Júnior, focado no desenvolvimento de aplicações backend bem estruturadas, utilizando Java e Programação Orientada a Objetos.
-Tenho perfil disciplinado, analítico e comprometido com boas práticas de código, sempre buscando evolução técnica por meio de projetos práticos.
+🧪 QA Analyst Júnior | Software Testing | Python
 
-🧠 Tecnologias & Conhecimentos
-Java (fundamentos, POO, coleções)
-Desenvolvimento Backend com Java
-APIs REST (conceitos)
-Banco de Dados SQL (CRUD e consultas)
-Git e GitHub
-Linux e Windows
+Sou formado em Gestão da Tecnologia da Informação (GTI) e estou direcionando meus estudos para a área de Quality Assurance (QA), com foco em testes de software, automação de testes e qualidade de aplicações.
 
-Metodologias Ágeis: Scrum e Kanban
-🛠️ Atualmente praticando
-Desenvolvimento de aplicações backend em Java
-Criação de APIs e integração com banco de dados
-Organização de projetos e versionamento de código
-Boas práticas de programação e código limpo
-Testes básicos em Java
+Atualmente, estou desenvolvendo meus conhecimentos em Python e ferramentas utilizadas no processo de testes, buscando aprimorar minhas habilidades técnicas por meio de estudos e projetos práticos.
 
-📌 Projetos
-Aplicação Backend Java (CRUD)
-Persistência de dados com banco SQL
-Estrutura orientada a objetos
-Código organizado e documentado
-Projetos de Estudo em Java Backend
-Lógica de programação
-Estruturas de controle e coleções
-Evolução contínua do código
-(Projetos disponíveis nos meus repositórios do GitHub)
+🛠️ Tecnologias e conhecimentos
 
-🎯 Objetivos
-Evoluir como Desenvolvedor Java Backend
-Atuar em projetos reais e ambientes colaborativos
-Aprofundar conhecimentos em Java e backend
-Contribuir com soluções eficientes e seguras
-🤝 Busco colaborar em
-Projetos Java Backend
-APIs REST
-Projetos open source para aprendizado e prática
-📫 Contato
+- Linguagem: Python
+- Testes: testes manuais, casos de teste, cenários de teste e reporte de bugs
+- Automação: fundamentos de automação de testes
+- Ferramentas: Git, GitHub e Visual Studio Code
+- Metodologias: fundamentos de Scrum e Kanban
+
+🎯 Objetivo profissional
+
+Conquistar uma oportunidade como Analista de QA Júnior ou QA Tester Júnior, contribuindo para a qualidade, confiabilidade e melhoria contínua de sistemas e aplicações.
+
+📚 Atualmente estudando
+
+- Fundamentos de Quality Assurance
+- Técnicas de testes funcionais e regressivos
+- Python aplicado à automação de testes
+- Documentação de testes e identificação de defeitos
+
+📂 Projetos
+
+Em breve, este perfil reunirá projetos práticos de testes manuais, documentação de casos de teste e automação com Python.
+📫 Contato:(11) 98460-7180
 💼 LinkedIn:(https://www.linkedin.com/in/jeffersonfagundespereira)
 📧 E-mail: (Jesk8boy@gmail.com)
 <!---
